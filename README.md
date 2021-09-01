@@ -11,6 +11,4 @@ A Linux tool to perform computer power cycling for hardware reliability tests.
 
 Demo: https://youtu.be/e66IE_41Gpw 
 
-[![Linux Power Cycle](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/e66IE_41Gpw "Linux Power Cycle")
-
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Linux Power Cycle](https://user-images.githubusercontent.com/25396389/131624159-13ec9b5a-ffbb-41c2-87f9-1f9c10eb1348.png)](https://youtu.be/e66IE_41Gpw "Linux Power Cycle")
