@@ -1,0 +1,34 @@
+1
+Mon 30 Aug 2021 11:41:28 PM PDT
+do sth~
+              total        used        free      shared  buff/cache   available
+Mem:        4028336      506948     2980668        1416      540720     3300080
+Swap:        967120           0      967120
+Rebooting
+
+reboot
+
+2
+Mon 30 Aug 2021 11:42:26 PM PDT
+do sth~
+              total        used        free      shared  buff/cache   available
+Mem:        4028320      511356     2973640        1416      543324     3295452
+Swap:        967120           0      967120
+Rebooting
+
+reboot
+
+
+3
+Mon 30 Aug 2021 11:48:55 PM PDT
+do sth~
+              total        used        free      shared  buff/cache   available
+Mem:        4028320      568268     2914552        1452      545500     3238472
+Swap:        967120           0      967120
+Rebooting
+
+reboot
+
+===== Test Completed! =====
+===== Test Completed! =====
+===== Test Completed! =====
