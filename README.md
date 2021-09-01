@@ -10,6 +10,7 @@ A Linux tool to perform computer power cycling for hardware reliability tests.
 4. Install TK
 
 Demo: https://youtu.be/e66IE_41Gpw 
-[![Linux Power Cycle](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/e66IE_41Gpw)
+
+[![Linux Power Cycle](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/e66IE_41Gpw "Linux Power Cycle")
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
